@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Riccardo Corradin"
+  title: Riccardo Corradin
   search: false
   navbar:
     title: false
@@ -21,11 +21,18 @@ website:
 
 format:
   html:
-    theme: simplex
-    css: styles.css
-    toc: false
+    embed-resources: true
+    smooth-scroll: true
+    theme: [simplex]
+    # theme: [simplex, theme.scss]
+    toc: true
+    toc-location: left
+    toc-title: Summary
+    toc-depth: 3
+    linkcolor: darkblue
     page-layout: full
     fontsize: 1.1em
+    css: styles.css
 
 editor: visual
 
