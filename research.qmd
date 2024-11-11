@@ -1,0 +1,45 @@
+---
+title: ""
+---
+
+**Preprints**
+
+1.  Corradin R., Danese L., Ongaro A., KhudaBukhsh W. R. (2024+). Model-based clustering of time-dependent observations with common structural chang. [\[ArXiv\]](https://arxiv.org/abs/2410.09552)
+
+2.  Camerlenghi F., Corradin R., Ongaro A. (2024+). Nested Compound Random Measures. [\[ArXiv\]](https://arxiv.org/abs/2410.06394)
+
+**Articles in referred journals**
+
+1.  Beraha M., Corradin R. (forthcoming). Bayesian Nonparametric Model-based Clustering with Intractable Distributions: An ABC Approach. Bayesian Analysis. [\[ArXiv\]](https://arxiv.org/abs/2112.10393) [\[Link\]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Model-based-Clustering-with-Intractable-Distributions--An/10.1214/24-BA1416.full)
+
+2.  Argiento R., Corradin R., Guglielmi A., Lanzarone E. (2024). Clustering blood donors via mixtures of product partition models with covariate. Biometrics. [\[ArXiv\]](https://arxiv.org/abs/2210.08297) [\[Link\]](https://doi.org/10.1093/biomtc/ujad021)
+
+3.  Camerlenghi F., Corradin R., Ongaro A.: Contaminated Gibbs–type priors. Bayesian Analysis (2024). [\[ArXiv\]](https://arxiv.org/abs/2108.11997) [\[Link\]](https://projecteuclid.org/journals/bayesian-analysis/volume-19/issue-2/Contaminated-Gibbs-Type-Priors/10.1214/22-BA1358.full)
+
+4.  Canale, A., Corradin, R., Nipoti, B. (2022). Importance conditional sampling for Bayesian nonparametric mixtures. Statistics and Computing. [\[ArXiv\]](https://arxiv.org/abs/1906.08147) [\[Link\]](https://link.springer.com/article/10.1007/s11222-022-10096-0)
+
+5.  Corradin, R., Danese, L., Ongaro, A. (2022). Bayesian nonparametric change points detection for multivariate time series with missing observations. International Journal of Approximate Reasoning. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0888613X21002231)
+
+6.  Canale, A., Corradin, R., Nipoti, B. (2021). BNPmix: an R package for Bayesian nonparametric modelling via Pitman-Yor mixtures. Journal of Statistical Software. [\[Link\]](https://www.jstatsoft.org/article/view/v100i15)
+
+7.  Corradin R., Nieto Barajas L.E., Nipoti B. (2021). Optimal stratification of survival data via Bayesian nonparametric mixtures. Econometrics and Statistics. [\[ArXiv\]](https://arxiv.org/abs/2103.09305) [\[Link\]](https://www.sciencedirect.com/science/article/pii/S2452306221000605)
+
+8.  Arbel, J., Corradin, R., Nipoti, B. (2020). Dirichlet process mixtures under affine transformations of the data. Computational Statistics. [\[ArXiv\]](https://arxiv.org/abs/1809.02463) [\[Link\]](https://link.springer.com/article/10.1007/s00180-020-01013-y)
+
+9.  Boscari, E., Pujolar, J.M., Dupanloup, I., Corradin, R., Congiu, L. (2014). Captive Breeding Programs Based on Family Groups in Polyploid Sturgeons. PLoS ONE. [\[Link\]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110951)
+
+**Proceedings and discussions**
+
+1.  Marchionni E., Corradin R. (2023). Bayesian nonparametric multiple change point detection for time series of compositional data. Proceedings of 2023 Conference of the Italian Statistical Society.
+
+2.  Corradin R., Danese L., KhudaBukhsha W., Ongaro A. (2023). Model-based clustering of nonstationary time series with common historical change times. Proceedings of 2023 Conference of the Italian Statistical Society.
+
+3.  Camerlenghi F., Corradin R., Ongaro A. (2021). On the convex combination of a Dirichlet process with a diffuse probability measure. Proceedings of 2021 Conference of the Italian Statistical Society.
+
+4.  Corradin R., Nieto Barajas L.E., Nipoti B. (2020). Pitman-Yor mixture models for survival data stratification. Proceedings of 2020 Conference of the Italian Statistical Society.
+
+5.  Beraha M., Corradin R. (2020). An ABC algorithm for random partitions arising from the Dirichlet process. Proceedings of 2020 Conference of the Italian Statistical Society.
+
+6.  Canale, A., Corradin, R., Nipoti, B. (2019). Galaxy color distribution estimation via dependent nonparametric mixtures. Proceedings of 2019 Conference of the Italian Statistical Society.
+
+7.  Arbel, J., Corradin, R., Lewandowski, M. (2018). Discussion of “Bayesian cluster analysis: Point estimation and credible balls.” by Wade and Ghahramani. Bayesian Analysis.

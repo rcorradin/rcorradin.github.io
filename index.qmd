@@ -1,11 +1,39 @@
 ---
-title: "rcorradin.github.io"
+title: "Riccardo Corradin"
+subtitle: "Assistant Professor at University of Milano-Bicocca"
+page-layout: full
+about:
+  template: solana
+  # image-width: 12em
+  # image: images/myself.jpg
+  links:
+    - icon: envelope-at
+      text: "Email address"
+      href: "mailto: riccardo.corradin@unimib.it"
+    - icon: google
+      text: "Google scholar"
+      href: https://scholar.google.com/citations?hl=it&user=FOw4DvEAAAAJ
+    - icon: journal-text
+      text: "Curriculum vitae"
+      href: files/RC_cv.pdf
 ---
 
-This is a Quarto website.
+------------------------------------------------------------------------
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am Assistant Professor (RTD-B) at the [Department of Economics, Management and Statistics](https://www.dems.unimib.it/en) of [University of Milano-Bioccca](https://www.unimib.it/). My research is focused on Bayesian nonparametric statistics, covering methodological, computational and applied aspects. For more details, see my [CV](files/RC_cv.pdf).
 
-```{r}
-1 + 1
-```
+------------------------------------------------------------------------
+
+**Experience**
+
+Assistant Professor \| University of Nottingham (2022 – 2024)
+
+Postdoctoral Researcher \| University of Milano-Bicocca (2019 – 2021)
+
+**Eucation**
+
+PhD in Statistics \| University of Milano-Bioccca (2015 – 2018)
+
+MSc in Statistics \| University of Padova (2013 – 2015)
+
+BSc in Statistics \| University of Milano-Bicocca (2009 – 2012)

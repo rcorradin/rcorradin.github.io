@@ -3,18 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "rcorradin.github.io"
+  title: "Riccardo Corradin"
+  search: false
   navbar:
+    title: false
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: dissertations.qmd
+        text: Dissertations
+      - href: misc.qmd
+        text: Miscellanea
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: full
+    fontsize: 1.1em
 
 editor: visual
 
