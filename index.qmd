@@ -4,8 +4,8 @@ subtitle: "Assistant Professor at University of Milano-Bicocca"
 page-layout: full
 about:
   template: solana
-  # image-width: 12em
-  # image: images/myself.jpg
+  image-width: 10em
+  image: images/myself.jpg
   links:
     - icon: envelope-at
       text: "Email address"

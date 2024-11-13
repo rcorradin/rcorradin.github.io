@@ -11,11 +11,11 @@ website:
       - href: index.qmd
         text: Home
       - href: research.qmd
-        text: Publications
+        text: Research
       - href: teaching.qmd
         text: Teaching
       - href: dissertations.qmd
-        text: Dissertations
+        text: Supervision
       - href: misc.qmd
         text: Miscellanea
 
