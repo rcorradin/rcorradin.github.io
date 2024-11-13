@@ -2,10 +2,10 @@
 title: ""
 ---
 
-**B.Sc. modules (Laurea triennale)**
+**BSc modules (Laurea triennale)**
 
--   Statistics I, Marketing, University of Milano-Bicocca
+-   Statistics I, Marketing, comunicazione aziendale e mercati globali, University of Milano-Bicocca
 
-**M.Sc. modules (Laurea magistrale)**
+**MSc modules (Laurea magistrale)**
 
 -   Bayesian Statistical Models, Scienze Statistiche ed Economiche, University of Milano Bicocca

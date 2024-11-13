@@ -1,4 +1,27 @@
+/*-- scss:uses --*/
+#header {
+  background-image: url("images/myself.jpg");
+  background-repeat: no-repeat;
+  background-position: 95%;
+  padding: 5px;
+}
+#header > * {
+  max-width: calc(100% - 225px);
+}
+@media only screen and (max-width:600px){
+#header > .title { 
+  margin-top: 105px;
+}
+#header > * {
+  max-width: 100%;
+}
+#header {
+  background-position: 10px 10px;
+}
+}
+
 /*-- scss:defaults --*/
 $navbar-bg: #212529;
 $navbar-fg: white;
 $navbar-hl: white;
+
