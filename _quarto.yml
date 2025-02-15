@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - /files
+    - /img
+    - /data
 
 website:
   title: Riccardo Corradin
@@ -16,8 +20,6 @@ website:
         text: Teaching
       - href: dissertations.qmd
         text: Supervision
-      - href: misc.qmd
-        text: Miscellanea
 
 format:
   html:
