@@ -4,7 +4,7 @@ title: ""
 
 **BSc modules (Laurea triennale)**
 
--   Statistics I, Marketing, comunicazione aziendale e mercati globali, University of Milano-Bicocca
+-   [Statistics I,](https://rcorradin.github.io/Stat1/) Marketing, comunicazione aziendale e mercati globali, University of Milano-Bicocca
 
 **MSc modules (Laurea magistrale)**
 
