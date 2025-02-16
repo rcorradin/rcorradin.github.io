@@ -33,6 +33,9 @@ format:
     toc-depth: 3
     linkcolor: darkblue
     page-layout: full
+    # body-width: 1000px
+    # sidebar-width: 150px
+    # margin-width: 150px
     fontsize: 1.1em
     css: styles.css
 
