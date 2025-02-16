@@ -8,4 +8,4 @@ title: ""
 
 **MSc modules (Laurea magistrale)**
 
--   Bayesian Statistical Models, Scienze Statistiche ed Economiche, University of Milano Bicocca
+-   [Bayesian Statistical Models](https://rcorradin.github.io/BSM/), Scienze Statistiche ed Economiche, University of Milano Bicocca
