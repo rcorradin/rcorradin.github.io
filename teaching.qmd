@@ -8,4 +8,8 @@ title: ""
 
 **MSc modules (Laurea magistrale)**
 
--   [Bayesian Statistical Models](https://rcorradin.github.io/BSM/), Scienze Statistiche ed Economiche, University of Milano Bicocca
+-   [Bayesian Statistical Models](https://rcorradin.github.io/BSM/), Scienze Statistiche ed Economiche, University of Milano-Bicocca
+
+**PhD modules (Dottorato di ricerca)**
+
+-   [Bayesian Computations](https://rcorradin.github.io/BSC/), Ph.D. in Economics, Statistics, and Data Science, University of Milano-Bicocca
