@@ -4,29 +4,29 @@ title: ""
 
 **Preprints**
 
-1.  Corradin R., Danese L., Ongaro A., KhudaBukhsh W. R. (2024+). Model-based clustering of time-dependent observations with common structural chang. [\[ArXiv\]](https://arxiv.org/abs/2410.09552)
-
-2.  Camerlenghi F., Corradin R., Ongaro A. (2024+). Nested Compound Random Measures. [\[ArXiv\]](https://arxiv.org/abs/2410.06394)
+1.  Camerlenghi F., Corradin R., Ongaro A. (2025+). Nested Compound Random Measures. [\[ArXiv\]](https://arxiv.org/abs/2410.06394)
 
 **Articles in referred journals**
 
-1.  Beraha M., Corradin R. (forthcoming). Bayesian Nonparametric Model-based Clustering with Intractable Distributions: An ABC Approach. Bayesian Analysis. [\[ArXiv\]](https://arxiv.org/abs/2112.10393) [\[Link\]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Model-based-Clustering-with-Intractable-Distributions--An/10.1214/24-BA1416.full)
+1.  Corradin R., Danese L., Ongaro A., KhudaBukhsh W. R. (forthcoming). Model-based clustering of time-dependent observations with common structural changes. Statistics and Computing. [\[ArXiv\]](https://arxiv.org/abs/2410.09552)
 
-2.  Argiento R., Corradin R., Guglielmi A., Lanzarone E. (2024). Clustering blood donors via mixtures of product partition models with covariate. Biometrics. [\[ArXiv\]](https://arxiv.org/abs/2210.08297) [\[Link\]](https://doi.org/10.1093/biomtc/ujad021)
+2.  Beraha M., Corradin R. (2025). Bayesian Nonparametric Model-based Clustering with Intractable Distributions: An ABC Approach. Bayesian Analysis. [\[ArXiv\]](https://arxiv.org/abs/2112.10393) [\[Link\]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Model-based-Clustering-with-Intractable-Distributions--An/10.1214/24-BA1416.full)
 
-3.  Camerlenghi F., Corradin R., Ongaro A.: Contaminated Gibbs–type priors. Bayesian Analysis (2024). [\[ArXiv\]](https://arxiv.org/abs/2108.11997) [\[Link\]](https://projecteuclid.org/journals/bayesian-analysis/volume-19/issue-2/Contaminated-Gibbs-Type-Priors/10.1214/22-BA1358.full)
+3.  Argiento R., Corradin R., Guglielmi A., Lanzarone E. (2024). Clustering blood donors via mixtures of product partition models with covariate. Biometrics. [\[ArXiv\]](https://arxiv.org/abs/2210.08297) [\[Link\]](https://doi.org/10.1093/biomtc/ujad021)
 
-4.  Canale, A., Corradin, R., Nipoti, B. (2022). Importance conditional sampling for Bayesian nonparametric mixtures. Statistics and Computing. [\[ArXiv\]](https://arxiv.org/abs/1906.08147) [\[Link\]](https://link.springer.com/article/10.1007/s11222-022-10096-0)
+4.  Camerlenghi F., Corradin R., Ongaro A. (2024). Contaminated Gibbs–type priors. Bayesian Analysis. [\[ArXiv\]](https://arxiv.org/abs/2108.11997) [\[Link\]](https://projecteuclid.org/journals/bayesian-analysis/volume-19/issue-2/Contaminated-Gibbs-Type-Priors/10.1214/22-BA1358.full)
 
-5.  Corradin, R., Danese, L., Ongaro, A. (2022). Bayesian nonparametric change points detection for multivariate time series with missing observations. International Journal of Approximate Reasoning. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0888613X21002231)
+5.  Canale, A., Corradin, R., Nipoti, B. (2022). Importance conditional sampling for Bayesian nonparametric mixtures. Statistics and Computing. [\[ArXiv\]](https://arxiv.org/abs/1906.08147) [\[Link\]](https://link.springer.com/article/10.1007/s11222-022-10096-0)
 
-6.  Canale, A., Corradin, R., Nipoti, B. (2021). BNPmix: an R package for Bayesian nonparametric modelling via Pitman-Yor mixtures. Journal of Statistical Software. [\[Link\]](https://www.jstatsoft.org/article/view/v100i15)
+6.  Corradin, R., Danese, L., Ongaro, A. (2022). Bayesian nonparametric change points detection for multivariate time series with missing observations. International Journal of Approximate Reasoning. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0888613X21002231)
 
-7.  Corradin R., Nieto Barajas L.E., Nipoti B. (2021). Optimal stratification of survival data via Bayesian nonparametric mixtures. Econometrics and Statistics. [\[ArXiv\]](https://arxiv.org/abs/2103.09305) [\[Link\]](https://www.sciencedirect.com/science/article/pii/S2452306221000605)
+7.  Canale, A., Corradin, R., Nipoti, B. (2021). BNPmix: an R package for Bayesian nonparametric modelling via Pitman-Yor mixtures. Journal of Statistical Software. [\[Link\]](https://www.jstatsoft.org/article/view/v100i15)
 
-8.  Arbel, J., Corradin, R., Nipoti, B. (2020). Dirichlet process mixtures under affine transformations of the data. Computational Statistics. [\[ArXiv\]](https://arxiv.org/abs/1809.02463) [\[Link\]](https://link.springer.com/article/10.1007/s00180-020-01013-y)
+8.  Corradin R., Nieto Barajas L.E., Nipoti B. (2021). Optimal stratification of survival data via Bayesian nonparametric mixtures. Econometrics and Statistics. [\[ArXiv\]](https://arxiv.org/abs/2103.09305) [\[Link\]](https://www.sciencedirect.com/science/article/pii/S2452306221000605)
 
-9.  Boscari, E., Pujolar, J.M., Dupanloup, I., Corradin, R., Congiu, L. (2014). Captive Breeding Programs Based on Family Groups in Polyploid Sturgeons. PLoS ONE. [\[Link\]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110951)
+9.  Arbel, J., Corradin, R., Nipoti, B. (2020). Dirichlet process mixtures under affine transformations of the data. Computational Statistics. [\[ArXiv\]](https://arxiv.org/abs/1809.02463) [\[Link\]](https://link.springer.com/article/10.1007/s00180-020-01013-y)
+
+10. Boscari, E., Pujolar, J.M., Dupanloup, I., Corradin, R., Congiu, L. (2014). Captive Breeding Programs Based on Family Groups in Polyploid Sturgeons. PLoS ONE. [\[Link\]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110951)
 
 **Proceedings and discussions**
 
