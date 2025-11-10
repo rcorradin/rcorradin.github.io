@@ -5,6 +5,7 @@ title: ""
 **Preprints**
 
 1.  Camerlenghi F., Corradin R., Ongaro A. (2025+). Nested Compound Random Measures. [\[ArXiv\]](https://arxiv.org/abs/2410.06394)
+2.  Corradin R., Danese L., Ongaro A. (2025+). BayesChange: an R package for Bayesian Change Point Analysis. [\[ArXiv\]](https://arxiv.org/abs/2511.04785)
 
 **Articles in referred journals**
 
