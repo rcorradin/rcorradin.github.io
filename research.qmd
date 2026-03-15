@@ -9,7 +9,7 @@ title: ""
 
 **Articles in referred journals**
 
-1.  Corradin R., Danese L., Ongaro A., KhudaBukhsh W. R. (forthcoming). Model-based clustering of time-dependent observations with common structural changes. Statistics and Computing. [\[ArXiv\]](https://arxiv.org/abs/2410.09552)
+1.  Corradin R., Danese L., Ongaro A., KhudaBukhsh W. R. (forthcoming). Model-based clustering of time-dependent observations with common structural changes. Statistics and Computing. [\[ArXiv\]](https://arxiv.org/abs/2410.09552)[\[Link\]](https://doi.org/10.1007/s11222-025-10756-x)
 
 2.  Beraha M., Corradin R. (2025). Bayesian Nonparametric Model-based Clustering with Intractable Distributions: An ABC Approach. Bayesian Analysis. [\[ArXiv\]](https://arxiv.org/abs/2112.10393) [\[Link\]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Model-based-Clustering-with-Intractable-Distributions--An/10.1214/24-BA1416.full)
 
